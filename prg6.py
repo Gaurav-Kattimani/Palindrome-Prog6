@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv) == 1:
-    text = "Radar"   
+    text = "121"   
 else:
     text = sys.argv[1]
     
